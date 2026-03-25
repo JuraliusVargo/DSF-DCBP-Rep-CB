@@ -1,5 +1,5 @@
-# Data Science Fundamentals for Chemists and Biochemists
+# Data Science Fundamentals Notes and Material
 
-Material for the course Data Science Fundamentals for Chemists and Biochemists at the University of Bern. 
+Material and Notes for the course Data Science Fundamentals at Uni Bern
 
-Third edition spring term 2024, S. Haug
+
